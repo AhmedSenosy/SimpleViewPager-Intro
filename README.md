@@ -1,5 +1,5 @@
 # SimpleViewPager-Intro
-A simple way to implement Intro for your application
+A simple way to implement Intro for your application with java
 
 <img src="https://github.com/AhmedSenosy/SimpleViewPager-Intro/blob/master/ScreenShot/Screenshot_1595967148.png" width=300></img> 
 <img src="https://github.com/AhmedSenosy/SimpleViewPager-Intro/blob/master/ScreenShot/Screenshot_1595967156.png" width=300></img>
