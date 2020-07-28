@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intro</string>
+    <string name="order_wherever" translatable="false">Order any food you want wherever you are at</string>
+</resources>
